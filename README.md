@@ -1,10 +1,10 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h1>Projeto Algorithms</h1>
+<p>Trata-se de um projeto avaliativo desenvolvido no módulo de Ciências da Computação do curso de Desenvolvimento Web da Trybe. Destacam-se como competências desenvolvidas: </p>
+ <ol>
+  <li>Lógica;</li>
+  <li>Capacidade de interpretação de problemas;</li>
+  <li>Capacidade de interpretação de um código legado;</li>
+  <li>Capacidade de otimizar a resolução de problemas;</li>
+</ol>
+<p>A aplicação consiste na implementação e otimização de algoritmos para os mais diversos problemas do dia a dia. </p>
+
