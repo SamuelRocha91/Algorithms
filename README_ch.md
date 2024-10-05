@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/128/1822/1822921.png" alt="Python Logo" width="52" height="30" /> Projeto Algorithms <img src="https://cdn-icons-png.flaticon.com/128/1822/1822921.png" alt="Python Logo" width="52" height="30" />
+# <img src="https://cdn-icons-png.flaticon.com/128/1822/1822921.png" alt="Python Logo" width="52" height="30" /> 算法项目 <img src="https://cdn-icons-png.flaticon.com/128/1822/1822921.png" alt="Python Logo" width="52" height="30" />
 
 ## 🌐 
 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/Algorithms/blob/main/README.md)
@@ -11,32 +11,32 @@
 <details>
 <summary> 
   <h2>
-    Sobre o projeto
+    关于项目
   </h2>
 </summary>
 
-Este projeto foi desenvolvido como parte do módulo de Ciências da Computação do curso de Desenvolvimento Web da Trybe. O objetivo principal é a implementação e otimização de algoritmos para resolver problemas diversos do dia a dia.
+该项目作为 Trybe 网络开发课程计算机科学模块的一部分而开发。主要目标是实现和优化算法，以解决日常生活中的各种问题。
 
-Os desafios são apresentados em arquivos Python dentro do diretório `challenges`, e cada arquivo representa um problema a ser resolvido de forma individual, ou seja, os problemas não possuem conexão entre si.
-
-</details>
-
-<details>
-<summary><h2>Competências desenvolvidas</h2></summary>
-
-Ao longo do desenvolvimento deste projeto, as seguintes competências foram trabalhadas:
-
-1. **Lógica**: Uso de raciocínio lógico para resolver problemas.
-2. **Capacidade de interpretação de problemas**: Entender e descrever claramente as questões propostas.
-3. **Capacidade de interpretação de código legado**: Analisar e trabalhar com códigos já existentes.
-4. **Capacidade de otimização**: Implementar soluções eficientes e de alta performance.
+挑战在 `challenges` 目录中的 Python 文件中提出，每个文件代表一个需要单独解决的问题，也就是说，问题之间没有联系。
 
 </details>
 
 <details>
-<summary><h2>Estrutura do projeto</h2></summary>
+<summary><h2>开发技能</h2></summary>
 
-A estrutura de diretórios e arquivos do projeto é apresentada abaixo:
+在开发此项目的过程中，工作了以下技能：
+
+1. **逻辑思维**：使用逻辑推理来解决问题。
+2. **问题理解能力**：理解和清晰描述提出的问题。
+3. **遗留代码理解能力**：分析和处理现有代码。
+4. **优化能力**：实施高效且高性能的解决方案。
+
+</details>
+
+<details>
+<summary><h2>项目结构</h2></summary>
+
+项目的目录和文件结构如下所示：
 
 ```
 .
@@ -74,30 +74,30 @@ A estrutura de diretórios e arquivos do projeto é apresentada abaixo:
 └──🔸 trybe.yml
 ```
 
-Legenda:
-- 🔸 Arquivos que não podem ser alterados.
-- 🔹 Arquivos a serem alterados para realizar os requisitos.
+图例：
+- 🔸 不能修改的文件。
+- 🔹 需要修改以实现要求的文件。
 
 </details>
 
 <details>
-<summary><h2>Como rodar o projeto</h2></summary>
+<summary><h2>如何运行项目</h2></summary>
 
-### Pré-requisitos
+### 前提条件
 
-Antes de iniciar, é necessário ter o Python instalado no seu sistema. Siga os passos abaixo para rodar o projeto:
+在开始之前，必须确保系统中已安装 Python。请按照以下步骤运行项目：
 
-1. Clone o repositório:
+1. 克隆仓库：
    ```bash
    git clone https://github.com/SamuelRocha91/algorithms-project.git
    ```
 
-2. Acesse o diretório do projeto:
+2. 进入项目目录：
    ```bash
    cd Alghorithms
    ```
 
-3. Instale as dependências de desenvolvimento:
+3. 安装开发依赖：
    ```bash
    pip install -r dev-requirements.txt
    ```
@@ -105,23 +105,23 @@ Antes de iniciar, é necessário ter o Python instalado no seu sistema. Siga os 
 </details>
 
 <details>
-<summary><h2>Testes</h2></summary>
+<summary><h2>测试</h2></summary>
 
-Para rodar os testes e verificar se as implementações estão corretas, utilize o seguinte comando:
+要运行测试并检查实现是否正确，请使用以下命令：
 
 ```bash
 pytest
 ```
 
-Os testes estão localizados no diretório `tests` e cobrem os principais desafios apresentados no projeto.
+测试位于 `tests` 目录中，涵盖项目中提出的主要挑战。
 
 </details>
 
 <details>
-<summary><h2>Outros projetos</h2></summary>
+<summary><h2>其他项目</h2></summary>
 
--  [Restaurant Orders](https://github.com/SamuelRocha91/restaurantOrders)
--  [Scripts](https://github.com/SamuelRocha91/scripts)
--  [Trybe is not google](https://github.com/SamuelRocha91/trybeIsNotGoogle)
+-  [餐厅订单](https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ch.md)
+-  [脚本](https://github.com/SamuelRocha91/scripts/blob/main/README_ch.md)
+-  [Trybe不是谷歌](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_ch.md)
 
 </details>

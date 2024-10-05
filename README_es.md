@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/128/1822/1822921.png" alt="Python Logo" width="52" height="30" /> Projeto Algorithms <img src="https://cdn-icons-png.flaticon.com/128/1822/1822921.png" alt="Python Logo" width="52" height="30" />
+# <img src="https://cdn-icons-png.flaticon.com/128/1822/1822921.png" alt="Python Logo" width="52" height="30" /> Proyecto Algoritmos <img src="https://cdn-icons-png.flaticon.com/128/1822/1822921.png" alt="Python Logo" width="52" height="30" />
 
 ## 🌐 
 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/Algorithms/blob/main/README.md)
@@ -11,32 +11,32 @@
 <details>
 <summary> 
   <h2>
-    Sobre o projeto
+    Sobre el proyecto
   </h2>
 </summary>
 
-Este projeto foi desenvolvido como parte do módulo de Ciências da Computação do curso de Desenvolvimento Web da Trybe. O objetivo principal é a implementação e otimização de algoritmos para resolver problemas diversos do dia a dia.
+Este proyecto fue desarrollado como parte del módulo de Ciencias de la Computación del curso de Desarrollo Web de Trybe. El objetivo principal es implementar y optimizar algoritmos para resolver diversos problemas cotidianos.
 
-Os desafios são apresentados em arquivos Python dentro do diretório `challenges`, e cada arquivo representa um problema a ser resolvido de forma individual, ou seja, os problemas não possuem conexão entre si.
-
-</details>
-
-<details>
-<summary><h2>Competências desenvolvidas</h2></summary>
-
-Ao longo do desenvolvimento deste projeto, as seguintes competências foram trabalhadas:
-
-1. **Lógica**: Uso de raciocínio lógico para resolver problemas.
-2. **Capacidade de interpretação de problemas**: Entender e descrever claramente as questões propostas.
-3. **Capacidade de interpretação de código legado**: Analisar e trabalhar com códigos já existentes.
-4. **Capacidade de otimização**: Implementar soluções eficientes e de alta performance.
+Los desafíos se presentan en archivos de Python dentro del directorio `challenges`, y cada archivo representa un problema que debe resolverse de forma individual. Los problemas no están interconectados.
 
 </details>
 
 <details>
-<summary><h2>Estrutura do projeto</h2></summary>
+<summary><h2>Habilidades desarrolladas</h2></summary>
 
-A estrutura de diretórios e arquivos do projeto é apresentada abaixo:
+A lo largo del desarrollo de este proyecto, se trabajaron las siguientes habilidades:
+
+1. **Lógica**: Uso del razonamiento lógico para resolver problemas.
+2. **Interpretación de problemas**: Entender y describir claramente los problemas propuestos.
+3. **Interpretación de código legado**: Analizar y trabajar con código existente.
+4. **Optimización**: Implementar soluciones eficientes y de alto rendimiento.
+
+</details>
+
+<details>
+<summary><h2>Estructura del proyecto</h2></summary>
+
+La estructura de directorios y archivos del proyecto se presenta a continuación:
 
 ```
 .
@@ -74,30 +74,30 @@ A estrutura de diretórios e arquivos do projeto é apresentada abaixo:
 └──🔸 trybe.yml
 ```
 
-Legenda:
-- 🔸 Arquivos que não podem ser alterados.
-- 🔹 Arquivos a serem alterados para realizar os requisitos.
+Leyenda:
+- 🔸 Archivos que no deben ser modificados.
+- 🔹 Archivos que deben ser modificados para cumplir con los requisitos del proyecto.
 
 </details>
 
 <details>
-<summary><h2>Como rodar o projeto</h2></summary>
+<summary><h2>Cómo ejecutar el proyecto</h2></summary>
 
-### Pré-requisitos
+### Requisitos previos
 
-Antes de iniciar, é necessário ter o Python instalado no seu sistema. Siga os passos abaixo para rodar o projeto:
+Antes de comenzar, asegúrate de tener Python instalado en tu sistema. Sigue los pasos a continuación para ejecutar el proyecto:
 
-1. Clone o repositório:
+1. Clona el repositorio:
    ```bash
    git clone https://github.com/SamuelRocha91/algorithms-project.git
    ```
 
-2. Acesse o diretório do projeto:
+2. Accede al directorio del proyecto:
    ```bash
    cd Alghorithms
    ```
 
-3. Instale as dependências de desenvolvimento:
+3. Instala las dependencias de desarrollo:
    ```bash
    pip install -r dev-requirements.txt
    ```
@@ -105,23 +105,23 @@ Antes de iniciar, é necessário ter o Python instalado no seu sistema. Siga os 
 </details>
 
 <details>
-<summary><h2>Testes</h2></summary>
+<summary><h2>Pruebas</h2></summary>
 
-Para rodar os testes e verificar se as implementações estão corretas, utilize o seguinte comando:
+Para ejecutar las pruebas y verificar si las implementaciones son correctas, utiliza el siguiente comando:
 
 ```bash
 pytest
 ```
 
-Os testes estão localizados no diretório `tests` e cobrem os principais desafios apresentados no projeto.
+Las pruebas se encuentran en el directorio `tests` y cubren los principales desafíos presentados en el proyecto.
 
 </details>
 
 <details>
-<summary><h2>Outros projetos</h2></summary>
+<summary><h2>Otros proyectos</h2></summary>
 
--  [Restaurant Orders](https://github.com/SamuelRocha91/restaurantOrders)
--  [Scripts](https://github.com/SamuelRocha91/scripts)
--  [Trybe is not google](https://github.com/SamuelRocha91/trybeIsNotGoogle)
+-  [Restaurant Orders](https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_es.md)
+-  [Scripts](https://github.com/SamuelRocha91/scripts/blob/main/README_es.md)
+-  [Trybe is not google](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_es.md)
 
 </details>
